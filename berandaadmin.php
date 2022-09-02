@@ -42,9 +42,9 @@
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#">BERANDA</a></li>
+                    <li><a href="berandaadmin.php">BERANDA</a></li>
                     <li><a href="#">WISATA</a></li>
-                    <li><a href="" class="btn btn-default btn-light">
+                    <li><a href="logout.php" class="btn btn-default btn-light">
                         <span class="button"></span> LOGOUT
                     </a></li>
                 </ul>
@@ -53,7 +53,7 @@
     </nav>
 
     <!-- First Container -->
-    <img src="img/bgkediri.jpg" style="width:100%;height:500px" class="img-fluid" alt="...">
+    <img src="img/brins.jpg" style="width:100%;height:500px" class="img-fluid" alt="...">
 
 
     <!-- Third Container -->
